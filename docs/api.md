@@ -6,7 +6,3 @@
 
 ## Authentication
 - Uses API keys for secure access.
-
-## Usage Examples
-```bash
-curl -X GET "your_url.com/strategy?user=example"
